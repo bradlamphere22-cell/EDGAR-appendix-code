@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "source": "EDGAR concise report summary",
+    "version": 1
+  },
+  "individual": {
+    "LaterDefLeads": [
+      {
+        "id": "player_01",
+        "tests": 14802.0,
+        "miss_pct": 0.0882,
+        "expert_miss_pct": 0.099,
+        "points": 0.0
+      },
+      {
+        "id": "player_02",
+        "tests": 14682.0,
+        "miss_pct": 0.0847,
+        "expert_miss_pct": 0.091,
+        "points": 0.0
+      },
+      {
+        "id": "player_03",
+        "tests": 4667.0,
+        "miss_pct": 0.1043,
+        "expert_miss_pct": 0.099,
+        "points": 0.0
+      },
+      {
+        "id": "player_04",
+        "tests": 4813.0,
+        "miss_pct": 0.1028,
+        "expert_miss_pct": 0.096,
+        "points": 0.0
+      },
+      {
+        "id": "player_05",
+        "tests": 2371.0,
+        "miss_pct": 0.0936,
+        "expert_miss_pct": 0.1,
+        "points": 0.0
+      },
+      {
+        "id": "player_06",
+        "tests": 2444.0,
+        "miss_pct": 0.0974,
+        "expert_miss_pct": 0.1,
+        "points": 0.0
+      },
+      {
+        "id": "player_07",
+        "tests": 6488.0,
+        "miss_pct": 0.0818,
+        "expert_miss_pct": 0.091,
+        "points": 0.0
+      },
+      {
+        "id": "player_08",
+        "tests": 6303.0,
+        "miss_pct": 0.1033,
+        "expert_miss_pct": 0.108,
+        "points": 0.0
+      },
+      {
+        "id": "player_09",
+        "tests": 5021.0,
+        "miss_pct": 0.102,
+        "expert_miss_pct": 0.117,
+        "points": 0.0
+      },
+      {
+        "id": "player_10",
+        "tests": 4882.0,
+        "miss_pct": 0.1172,
+        "expert_miss_pct": 0.12,
+        "points": 0.0
+      },
+      {
+        "id": "player_11",
+        "tests": 3867.0,
+        "miss_pct": 0.1122,
+        "expert_miss_pct": 0.12,
+        "points": 0.0
+      },
+      {
+        "id": "player_12",
+        "tests": 3967.0,
+        "miss_pct": 0.0976,
+        "expert_miss_pct": 0.119,
+        "points": 111.0
+      },
+      {
+        "id": "player_13",
+        "tests": 4856.0,
+        "miss_pct": 0.1085,
+        "expert_miss_pct": 0.12,
+        "points": 0.0
+      },
+      {
+        "id": "player_14",
+        "tests": 5136.0,
+        "miss_pct": 0.0968,
+        "expert_miss_pct": 0.106,
+        "points": 0.0
+      },
+      {
+        "id": "player_15",
+        "tests": 1686.0,
+        "miss_pct": 0.1002,
+        "expert_miss_pct": 0.12,
+        "points": 32.0
+      },
+      {
+        "id": "player_16",
+        "tests": 1796.0,
+        "miss_pct": 0.0846,
+        "expert_miss_pct": 0.108,
+        "points": 74.0
+      }
+    ],
+    "KOM Suits": [
+      {
+        "id": "player_01",
+        "tests": 1229.0,
+        "miss_pct": 0.2067,
+        "expert_miss_pct": 0.4,
+        "points": 1114.0
+      },
+      {
+        "id": "player_02",
+        "tests": 1241.0,
+        "miss_pct": 0.1781,
+        "expert_miss_pct": 0.4,
+        "points": 1351.0
+      },
+      {
+        "id": "player_03",
+        "tests": 389.0,
+        "miss_pct": 0.3316,
+        "expert_miss_pct": 0.4,
+        "points": 43.0
+      },
+      {
+        "id": "player_04",
+        "tests": 407.0,
+        "miss_pct": 0.3538,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_05",
+        "tests": 196.0,
+        "miss_pct": 0.25,
+        "expert_miss_pct": 0.4,
+        "points": 124.0
+      },
+      {
+        "id": "player_06",
+        "tests": 221.0,
+        "miss_pct": 0.3077,
+        "expert_miss_pct": 0.4,
+        "points": 58.0
+      },
+      {
+        "id": "player_07",
+        "tests": 557.0,
+        "miss_pct": 0.1921,
+        "expert_miss_pct": 0.4,
+        "points": 557.0
+      },
+      {
+        "id": "player_08",
+        "tests": 500.0,
+        "miss_pct": 0.24,
+        "expert_miss_pct": 0.4,
+        "points": 347.0
+      },
+      {
+        "id": "player_09",
+        "tests": 491.0,
+        "miss_pct": 0.2077,
+        "expert_miss_pct": 0.4,
+        "points": 442.0
+      },
+      {
+        "id": "player_10",
+        "tests": 523.0,
+        "miss_pct": 0.3136,
+        "expert_miss_pct": 0.4,
+        "points": 118.0
+      },
+      {
+        "id": "player_11",
+        "tests": 368.0,
+        "miss_pct": 0.3125,
+        "expert_miss_pct": 0.4,
+        "points": 85.0
+      },
+      {
+        "id": "player_12",
+        "tests": 361.0,
+        "miss_pct": 0.2742,
+        "expert_miss_pct": 0.4,
+        "points": 172.0
+      },
+      {
+        "id": "player_13",
+        "tests": 462.0,
+        "miss_pct": 0.3636,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_14",
+        "tests": 396.0,
+        "miss_pct": 0.2929,
+        "expert_miss_pct": 0.4,
+        "points": 141.0
+      },
+      {
+        "id": "player_15",
+        "tests": 159.0,
+        "miss_pct": 0.3522,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_16",
+        "tests": 165.0,
+        "miss_pct": 0.1636,
+        "expert_miss_pct": 0.4,
+        "points": 195.0
+      }
+    ],
+    "KOM NT": [
+      {
+        "id": "player_01",
+        "tests": 743.0,
+        "miss_pct": 0.1952,
+        "expert_miss_pct": 0.4,
+        "points": 728.0
+      },
+      {
+        "id": "player_02",
+        "tests": 674.0,
+        "miss_pct": 0.184,
+        "expert_miss_pct": 0.4,
+        "points": 709.0
+      },
+      {
+        "id": "player_03",
+        "tests": 209.0,
+        "miss_pct": 0.3158,
+        "expert_miss_pct": 0.4,
+        "points": 44.0
+      },
+      {
+        "id": "player_04",
+        "tests": 231.0,
+        "miss_pct": 0.355,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_05",
+        "tests": 109.0,
+        "miss_pct": 0.2202,
+        "expert_miss_pct": 0.4,
+        "points": 89.0
+      },
+      {
+        "id": "player_06",
+        "tests": 116.0,
+        "miss_pct": 0.2845,
+        "expert_miss_pct": 0.4,
+        "points": 48.0
+      },
+      {
+        "id": "player_07",
+        "tests": 274.0,
+        "miss_pct": 0.2518,
+        "expert_miss_pct": 0.4,
+        "points": 170.0
+      },
+      {
+        "id": "player_08",
+        "tests": 305.0,
+        "miss_pct": 0.2951,
+        "expert_miss_pct": 0.4,
+        "points": 105.0
+      },
+      {
+        "id": "player_09",
+        "tests": 213.0,
+        "miss_pct": 0.2441,
+        "expert_miss_pct": 0.4,
+        "points": 142.0
+      },
+      {
+        "id": "player_10",
+        "tests": 267.0,
+        "miss_pct": 0.2434,
+        "expert_miss_pct": 0.4,
+        "points": 179.0
+      },
+      {
+        "id": "player_11",
+        "tests": 192.0,
+        "miss_pct": 0.276,
+        "expert_miss_pct": 0.4,
+        "points": 89.0
+      },
+      {
+        "id": "player_12",
+        "tests": 191.0,
+        "miss_pct": 0.2618,
+        "expert_miss_pct": 0.4,
+        "points": 106.0
+      },
+      {
+        "id": "player_13",
+        "tests": 239.0,
+        "miss_pct": 0.364,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_14",
+        "tests": 253.0,
+        "miss_pct": 0.3597,
+        "expert_miss_pct": 0.4,
+        "points": 0.0
+      },
+      {
+        "id": "player_15",
+        "tests": 87.0,
+        "miss_pct": 0.3218,
+        "expert_miss_pct": 0.4,
+        "points": 15.0
+      },
+      {
+        "id": "player_16",
+        "tests": 87.0,
+        "miss_pct": 0.2529,
+        "expert_miss_pct": 0.4,
+        "points": 53.0
+      }
+    ],
+    "Weird Ols": [
+      {
+        "id": "player_01",
+        "tests": 41.0,
+        "miss_pct": 0.0488,
+        "expert_miss_pct": 0.439,
+        "points": 166.0
+      },
+      {
+        "id": "player_02",
+        "tests": 66.0,
+        "miss_pct": 0.0606,
+        "expert_miss_pct": 0.439,
+        "points": 255.0
+      },
+      {
+        "id": "player_03",
+        "tests": 10.0,
+        "miss_pct": 0.2,
+        "expert_miss_pct": 0.439,
+        "points": 18.0
+      },
+      {
+        "id": "player_04",
+        "tests": 3.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 14.0
+      },
+      {
+        "id": "player_05",
+        "tests": 7.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 33.0
+      },
+      {
+        "id": "player_06",
+        "tests": 2.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 10.0
+      },
+      {
+        "id": "player_07",
+        "tests": 25.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 119.0
+      },
+      {
+        "id": "player_08",
+        "tests": 16.0,
+        "miss_pct": 0.125,
+        "expert_miss_pct": 0.439,
+        "points": 47.0
+      },
+      {
+        "id": "player_09",
+        "tests": 14.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 67.0
+      },
+      {
+        "id": "player_10",
+        "tests": 17.0,
+        "miss_pct": 0.1765,
+        "expert_miss_pct": 0.439,
+        "points": 37.0
+      },
+      {
+        "id": "player_11",
+        "tests": 9.0,
+        "miss_pct": 0.11109999999999999,
+        "expert_miss_pct": 0.439,
+        "points": 28.0
+      },
+      {
+        "id": "player_12",
+        "tests": 10.0,
+        "miss_pct": 0.1,
+        "expert_miss_pct": 0.439,
+        "points": 33.0
+      },
+      {
+        "id": "player_13",
+        "tests": 16.0,
+        "miss_pct": 0.125,
+        "expert_miss_pct": 0.439,
+        "points": 47.0
+      },
+      {
+        "id": "player_14",
+        "tests": 1.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 5.0
+      },
+      {
+        "id": "player_15",
+        "tests": 11.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 52.0
+      },
+      {
+        "id": "player_16",
+        "tests": 1.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.439,
+        "points": 5.0
+      }
+    ]
+  },
+  "partnership": {
+    "Bad Landings": [
+      {
+        "id": "pair_01",
+        "tests": 8123.0,
+        "miss_pct": 0.0208,
+        "expert_miss_pct": 0.045,
+        "points": 642.0
+      },
+      {
+        "id": "pair_02",
+        "tests": 2682.0,
+        "miss_pct": 0.0291,
+        "expert_miss_pct": 0.045,
+        "points": 116.0
+      },
+      {
+        "id": "pair_03",
+        "tests": 1319.0,
+        "miss_pct": 0.0281,
+        "expert_miss_pct": 0.045,
+        "points": 63.0
+      },
+      {
+        "id": "pair_04",
+        "tests": 3522.0,
+        "miss_pct": 0.0318,
+        "expert_miss_pct": 0.045,
+        "points": 111.0
+      },
+      {
+        "id": "pair_05",
+        "tests": 3212.0,
+        "miss_pct": 0.0243,
+        "expert_miss_pct": 0.045,
+        "points": 206.0
+      },
+      {
+        "id": "pair_06",
+        "tests": 2253.0,
+        "miss_pct": 0.0351,
+        "expert_miss_pct": 0.045,
+        "points": 39.0
+      },
+      {
+        "id": "pair_07",
+        "tests": 3505.0,
+        "miss_pct": 0.0377,
+        "expert_miss_pct": 0.045,
+        "points": 22.0
+      },
+      {
+        "id": "pair_08",
+        "tests": 1202.0,
+        "miss_pct": 0.0433,
+        "expert_miss_pct": 0.045,
+        "points": 0.0
+      }
+    ],
+    "Passed Force": [
+      {
+        "id": "pair_01",
+        "tests": 7.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.5,
+        "points": 41.0
+      },
+      {
+        "id": "pair_02",
+        "tests": 1.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.5,
+        "points": 6.0
+      },
+      {
+        "id": "pair_03",
+        "tests": 1.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.5,
+        "points": 6.0
+      },
+      {
+        "id": "pair_04",
+        "tests": 7.0,
+        "miss_pct": 0.1428,
+        "expert_miss_pct": 0.5,
+        "points": 25.0
+      },
+      {
+        "id": "pair_05",
+        "tests": 13.0,
+        "miss_pct": 0.2308,
+        "expert_miss_pct": 0.5,
+        "points": 28.0
+      },
+      {
+        "id": "pair_06",
+        "tests": 1.0,
+        "miss_pct": 1.0,
+        "expert_miss_pct": 0.5,
+        "points": 0.0
+      },
+      {
+        "id": "pair_07",
+        "tests": 1.0,
+        "miss_pct": 1.0,
+        "expert_miss_pct": 0.5,
+        "points": 0.0
+      },
+      {
+        "id": "pair_08",
+        "tests": 0.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.5,
+        "points": 0.0
+      }
+    ],
+    "Bad 6m": [
+      {
+        "id": "pair_01",
+        "tests": 78.0,
+        "miss_pct": 0.025,
+        "expert_miss_pct": 0.1,
+        "points": 39.0
+      },
+      {
+        "id": "pair_02",
+        "tests": 14.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.1,
+        "points": 11.0
+      },
+      {
+        "id": "pair_03",
+        "tests": 7.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.1,
+        "points": 5.0
+      },
+      {
+        "id": "pair_04",
+        "tests": 41.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.1,
+        "points": 32.0
+      },
+      {
+        "id": "pair_05",
+        "tests": 5.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.1,
+        "points": 4.0
+      },
+      {
+        "id": "pair_06",
+        "tests": 5.0,
+        "miss_pct": 0.2,
+        "expert_miss_pct": 0.1,
+        "points": 0.0
+      },
+      {
+        "id": "pair_07",
+        "tests": 7.0,
+        "miss_pct": 0.2857,
+        "expert_miss_pct": 0.1,
+        "points": 0.0
+      },
+      {
+        "id": "pair_08",
+        "tests": 1.0,
+        "miss_pct": 0.0,
+        "expert_miss_pct": 0.1,
+        "points": 1.0
+      }
+    ],
+    "RKC 5M": [
+      {
+        "id": "pair_01",
+        "tests": 247.0,
+        "miss_pct": 0.081,
+        "expert_miss_pct": 0.15,
+        "points": 77.0
+      },
+      {
+        "id": "pair_02",
+        "tests": 47.0,
+        "miss_pct": 0.2128,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_03",
+        "tests": 24.0,
+        "miss_pct": 0.1667,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_04",
+        "tests": 123.0,
+        "miss_pct": 0.1545,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_05",
+        "tests": 32.0,
+        "miss_pct": 0.1562,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_06",
+        "tests": 62.0,
+        "miss_pct": 0.1935,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_07",
+        "tests": 41.0,
+        "miss_pct": 0.122,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      },
+      {
+        "id": "pair_08",
+        "tests": 12.0,
+        "miss_pct": 0.1667,
+        "expert_miss_pct": 0.15,
+        "points": 0.0
+      }
+    ]
+  }
+}
